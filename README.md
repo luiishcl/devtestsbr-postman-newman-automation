@@ -1,8 +1,9 @@
-# devtestsbr-postman-newman-automation [WIP]
-Arquivos da apresentação no DevTestsBR #31
+# Arquivos da apresentação no DevTestsBR #31
 
+Apresentação sob automação de testes no Postman utilizando newman CLI e gerando relatório.
 
-Apŕesentação sob automação de testes no Postman utilizando newman CLI e gerando relatório.
+----
+
 # Pré requisitos:
 
 ## API: Star Wars Documentation
