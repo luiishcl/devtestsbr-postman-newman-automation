@@ -28,6 +28,10 @@ Apŕesentação sob automação de testes no Postman utilizando newman CLI e ger
 
 - Executar comando newman via terminal 
 
+   ```newman run swapi-devtestsBR.postman_collection.json```
+
+- Executar comando newman gerando relatório
+
    ```newman run swapi-devtestsBR.postman_collection.json -r htmlextra``` 
  
 - Verificar resultado no terminal ao final da execução
